@@ -1,5 +1,5 @@
 ## Olá, sou o Henrique!
- Estudante de Ciência da Computação e Jovem Aprendiz na TCS!
+ Estudante de Ciência da Computação na Unifil e Jovem Aprendiz na TCS!
 - Trabalho no RH no time de Compliance
 - Estou no primeiro ano de CC
 - Gosto de desenvolvimento 
